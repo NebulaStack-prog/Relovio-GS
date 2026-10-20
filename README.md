@@ -57,3 +57,5 @@ The application will be available at http://localhost:5173.
 1. Open http://localhost:5173 in your browser.
 2. Click "Регистрация" (Register) to create a new user.
 3. Start creating moving plans, adding boxes, and generating QR codes!
+
+© NESTIMS & SoCrazYy
